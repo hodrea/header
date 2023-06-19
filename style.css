@@ -1,0 +1,29 @@
+*{
+	text-align: center;
+}
+
+img{
+	border-radius: 50%;
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+ul{
+	background-color: black;
+	width:400px;
+	margin: auto;
+}
+
+li{
+	list-style-type: none;
+	display: inline-block;
+	padding:20px;
+	
+}
+
+li:hover{
+	background-color: gold;
+}
